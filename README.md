@@ -1,4 +1,4 @@
-# Sistema de Contagem & Classificação "IMPAR" - "PAR" <img src="https://user-images.githubusercontent.com/53920878/133932972-988a224d-c3d6-485a-8c79-46afd90b97d6.png" width="80px" align="center"></img>
+# Sistema de Contagem & Classificação (Impar - Par) <img src="https://user-images.githubusercontent.com/53920878/133932972-988a224d-c3d6-485a-8c79-46afd90b97d6.png" width="80px" align="center"></img>
 
 
 Nessa atividade foi criado a codificação de um sistema de Contagem e Classificação (Impar - Par).</br>
